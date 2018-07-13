@@ -5,3 +5,6 @@ same principles as ngram_generator project to generate sentences - but this time
 ![](https://raw.githubusercontent.com/mohammedterry/ngram_generator_bot/master/ex_learning1.png)
 ![](https://raw.githubusercontent.com/mohammedterry/ngram_generator_bot/master/ex_learning.png)
 ![](https://raw.githubusercontent.com/mohammedterry/ngram_generator_bot/master/trigram_example.png)
+
+And after just a couple of minutes talking - the bot is able to have a very normal conversation without any scripted replies.  It simply learnt what to say in certain contexts by talking with me (trigram model)
+![](https://raw.githubusercontent.com/mohammedterry/ngram_generator_bot/master/learned_to_speak.png)
