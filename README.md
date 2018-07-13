@@ -4,3 +4,4 @@ same principles as ngram_generator project to generate sentences - but this time
 
 ![](https://raw.githubusercontent.com/mohammedterry/ngram_generator_bot/master/ex_learning1.png)
 ![](https://raw.githubusercontent.com/mohammedterry/ngram_generator_bot/master/ex_learning.png)
+![](https://raw.githubusercontent.com/mohammedterry/ngram_generator_bot/master/trigram_example.png)
