@@ -1,4 +1,5 @@
 # ngram_generator_bot
+Retrieval-based bot using Ngrams
 
 "Ideally, a socialbot should be able to ingest and update its knowledge base automatically; however, this is an unsolved problem and an active area of research"...or is it?
 
